@@ -2,4 +2,4 @@
 
 연습폴더
 
-<img src = "Penguins.jpg"
+<img src = "Penguins.jpg">
